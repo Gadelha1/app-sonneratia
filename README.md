@@ -32,7 +32,6 @@ O resultado esperado é uma linha `[ FAIL 0 | WARN 0 | SKIP 0 | PASS N ]`.
 
 | Pasta/arquivo | Conteúdo |
 |---|---|
-| `CLAUDE.md` | contexto do projeto e decisões estatísticas |
 | `docs/` | plano de implementação, metodologia e guia de R |
 | `dados/` | planilhas de campo e a planilha-modelo |
 | `R/` | funções de análise, sem nada de interface |
